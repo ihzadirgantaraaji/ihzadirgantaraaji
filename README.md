@@ -1,16 +1,14 @@
-### Hi there 👋
+print ("perulangan for and while")
 
-<!--
-**ihzadirgantaraaji/ihzadirgantaraaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+print("untuk for")
 
-Here are some ideas to get you started:
+nama_pemain sepak bola= ("messi,ronaldo,neymar,mbappe,suarez")
+for i in nama_hp:
+    print(i)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print("untuk while")
+
+i = 1
+while i <=5:
+    print("ihza dirgantara aji")
+    i += 3
